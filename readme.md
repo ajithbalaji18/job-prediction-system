@@ -1,4 +1,4 @@
-# Recruitment Analytics Dashboard
+# Job Prediction System
 
 ## Project Overview
 
